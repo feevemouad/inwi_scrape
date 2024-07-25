@@ -1,0 +1,21 @@
+Category: My account?
+Subcategory:  I manage my bank cards
+
+https://win.ma/en/faq/why-register-card-or-bank-account-my-win-account-705
+Question: Why register a card or a bank account on my win account?
+Answer:   Register one or more saves you time and makes your win payments easily, securely and quickly. Registering your credit/debit card [LINK: https://win.ma/faq/how-do-i-register-bank-card-my-win-account-709] allows you to speed up the payment process, as you no longer need to fill in your card information each time. Win offers you the possibility to register up to three bank cards and then select the one with which you prefer to pay for each new transaction. You also have the option of removing one or more cards [LINK: https://win.ma/faq/comment-supprimer-une-carte-bancaire-enregistree-sur-mon-compte-711] anytime, easily. Protecting your card information is an important responsibility that we take seriously, which is why your bank card details are handled through the reliable security system of the Center Monétique Interbancaire (CMI). When making any payment request, you will need to enter the 3D secure code that you will receive from your bank, aimed at detecting and protecting you against security fraud. Ready to save your credit card information for easier and faster payment? Find out how in this article: How to register a bank card?  [LINK: https://win.ma/faq/how-do-i-register-bank-card-my-win-account-709]    
+
+https://win.ma/en/faq/how-do-i-register-bank-card-my-win-account-709
+Question: How do I register a bank card on my win account?
+Answer:   With win, you no longer need to enter your banking information when making your next payments! You are given the option of registering one or more credit/debit cards, up to three cards registered at the same time, in order to simplify your life and save you time, ALL online! A simple, transparent and secure solution. In order to make your payments in optimal conditions and quickly, simply follow the steps below.
+   To register a credit card on your win account: 1. Log in to your win account 2. Access your customer area, then click on “my payment     
+
+https://win.ma/en/faq/how-do-i-delete-bank-card-registered-my-account-711
+Question: How do I delete a bank card registered on my account?
+Answer:   Has your card expired? Did you lose it? Don't worry, you can easily delete one or more registered cards at any time by following these steps: 1. Access your win customer area [LINK: http://win.ma/espace-client] by logging into your account. 2. Go to the “my payments [LINK: http://win.ma/espace-client/paiements]” section then press “my cards”     
+
+https://win.ma/en/faq/why-cant-i-register-credit-card-my-win-account-707
+Question: Why can't I register a credit card on my win account?
+Answer:   Have you tried to register a credit card on your win account, but an error message appears during registration? Do not panic! This can be due to several reasons: 1. Start by checking the compliance of the bank details entered on the registration page, then try again 2. You have registered your card in your win customer area, but you have entered an incorrect 3D secure code 3. The credit/debit card you tried to register has expired, in this case check the expiration date of your card 4. The registration request is refused by your bank. To find out the exact reason for the refusal, you must contact your bank directly
+   If the problem persists, contact us on livechat so that our advisers can assist you in solving your problem.  
+

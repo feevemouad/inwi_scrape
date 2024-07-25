@@ -1,0 +1,13 @@
+Category: My account?
+Subcategory:  I track my win balance
+
+https://win.ma/en/faq/i-track-consumption-my-passes-653
+Question: I track the consumption of my Passes
+Answer:   Pass consumption monitoring is done directly on your Account, My consumption, my Pass  
+
+https://win.ma/en/faq/i-consult-consumption-my-mobile-plan-659
+Question: I consult the consumption of my mobile plan
+Answer:   You can follow in real time the status of your mobile plan and Passes in your dashboard, My Consumption. You will find there the status of your different balances: 4G Internet and National calls. You will also find the consumption status of your Pass. 
+ You will find there the status of your different balances:
+ 4G Internet and National calls. You will also find the consumption status of your Pass: Call Pass, Internet Pass, International Pass, Roaming Pass ...    
+

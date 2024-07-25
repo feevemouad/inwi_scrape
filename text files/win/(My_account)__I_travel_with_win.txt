@@ -1,0 +1,39 @@
+Category: My account?
+Subcategory:  I travel with win
+
+https://win.ma/en/faq/what-if-i-have-trouble-using-my-win-line-abroad-553
+Question: What if I have trouble using my win line abroad?
+Answer:   Your Roaming is activated but you cannot use your Telecom services?
+ 
+ You don't have internet? 
+ Check that the "Mobile Data" and "Data abroad" parameters are activated on your smartphone.
+ 
+ You don't have a network?
+ Check on the Pass page on our application that the country where you are is covered in Roaming If the country where you are is on the list, we advise you to restart your smartphone. And in case you still don't have a network, you can contact our win advisers.
+ 
+ Do you have a network but can't make / receive calls? 
+ Check that you detect a foreign operator and that you have the network signal bars at the top of the screen. Check that your Roaming Pass is activated and covers the area where you are by going to your dashboard, My Offer, My Passes. You can see in the same place if you have a sufficient balance. Check that you are using international numbering (eg + 212xxx, + 33xxx ....) for making calls.
+ 
+ And if the problem persists, you can contact our advisers  
+
+https://win.ma/en/faq/what-should-i-do-i-travel-555
+Question: What should I do before I travel?
+Answer:   To be able to use Roaming with complete peace of mind, here are a few things to check before going abroad: Make sure that the country you are going to visit is covered in Roaming: Consult the list of countries covered in the Pass section. Buy a valid Roaming Pass in your destination and check that it has been activated by going to your dashboard, My Offer, My Passes. If you wish to use the Internet in Roaming during your trip, check that you have purchased a Roaming Internet Pass or a Roaming Pass in multi-purpose dirhams and activate "Data roaming" on your smartphone. Check that you are using international prefixes (eg + 212xxx, + 33xxx ....) for making calls.  
+
+https://win.ma/en/faq/how-activate-roaming-657
+Question: How to activate roaming
+Answer:   No need to contact an advisor to activate Roaming, simply buy a Roaming Pass to make and receive calls, browse the Internet and send SMS abroad.
+ 
+ To activate the internet on your smartphone during your trip abroad once your Pass has been purchased, simply activate data roaming depending on the operating system of your smartphone:
+ 
+ For iOS 
+ In "Settings" choose "Cellular data" and activate simultaneously the options "Cellular data" and "Data abroad"
+ 
+ For Android
+ Latest Android version: In "Settings", choose "Connections" then "Mobile networks" and press "Roaming data" Earlier Android version: In "Settings", choose "Wireless and networks", then "More" then "Mobile networks" and check the two options: "Data roaming" and "Mobile data traffic"  
+
+https://win.ma/en/faq/what-roaming-669
+Question: What is roaming?
+Answer:   Roaming or international roaming is a service that allows you to continue to benefit from your call, SMS and Internet services anywhere in the world. 
+ Do not hesitate to consult the list of countries covered before purchasing the appropriate Roaming Pass, the Roaming conditions and prices differ from one country to another.    
+

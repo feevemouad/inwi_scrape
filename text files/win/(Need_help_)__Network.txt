@@ -1,0 +1,110 @@
+Category: Need help ?
+Subcategory:  Network
+
+https://win.ma/en/faq/i-cannot-make-or-receive-calls-sms-561
+Question: I cannot make or receive calls / SMS
+Answer:   If you cannot make or receive calls / SMS, check if you are in a covered area. You can consult the national 2G / 3G / 4G coverage map and enter the address where you are located. 
+ And if you still cannot resolve the problem, please do not hesitate to contact our advisers for assistance.    
+
+https://win.ma/en/faq/i-cannot-access-internet-563
+Question: I cannot access the Internet
+Answer:   Are you having difficulty accessing the Internet? You just need to perform the following checks to be able to browse the Internet freely:   Internet balance Can't access the Internet? It may be linked to your Internet balance, to do this, check your consumption [LINK: https://win.ma/faq/je-consulte-la-conso-de-mon-forfait-659]. If you have used up this balance, you can purchase a Pass. [LINK: https://win.ma/faq/je-booste-mon-forfait-win-et-jactive-des-pass-663]   Network coverage To check whether you are in a covered area, we invite you to consult the 2G / 3G / 4G national coverage map [LINK: https://inwi.ma/corporate/pourquoi-inwi] and to enter the address where you are located.   Settings of your smartphone  To take full advantage of your internet connection, check if cellular data is enabled by following the steps below:    For iPhone  Select "Settings", then activate "Cellular data" On "Options", select "Activate 4G" and finally choose "Voice and data"    For Android   From the top of your phone, pull down the shortcut menu at the top of your phone Press the mobile data icon to activate the internet connection on your smartphone.   4G configuration  See the article: I can't configure 4G on my smartphone, what should I do? [LINK: https://win.ma/faq/je-narrive-pas-configurer-la-4g-0-649] And if you still cannot resolve the issue, please do not hesitate to contact our advisors for assistance. [LINK: https://win.ma/faq/comment-echanger-avec-win-655]  
+
+https://win.ma/en/faq/i-cant-get-network-565
+Question: I can't get the network
+Answer:   Are the reception bars at the top of your smartphone screen not displayed?
+ 
+ The checks below will allow you to receive the network in a few minutes:
+ 
+ Network coverage
+ To check if you are in a covered area, you can consult the national 2G / 3G / 4G coverage map and enter the address where you are located.
+ 
+ Smartphone settings
+ If you are in a covered area and the problem persists, remember to check the settings on your smartphone. If airplane mode is activated on your smartphone, we invite you to deactivate it. Note that activating airplane mode systematically deactivates all of your network connections.
+ 
+ And if you still cannot resolve the problem, please do not hesitate to contact our advisers for assistance.  
+
+https://win.ma/en/faq/i-cannot-receive-calls-sms-569
+Question: I cannot receive calls / SMS
+Answer:   If you cannot receive calls / SMS, you can check if you are in a covered area. You can consult the national 2G / 3G / 4G coverage map and enter the address where you are located. And if you still cannot resolve the problem, please do not hesitate to contact our advisers for assistance.  
+
+https://win.ma/en/faq/i-cannot-make-calls-sms-571
+Question: I cannot make calls / SMS
+Answer:   If you cannot make a call or send an SMS, you can check the following:
+ 
+ Network coverage 
+ To check if you are in a covered area, you can consult the national 2G / 3G / 4G coverage map and enter the address where you are located.
+ 
+ Destination of calls and SMS Calls to national numbers:
+ check that you have a call balance (mobile plan or Pass) which allows you to make national calls. International calls: check that you have a call balance (Pass) that allows you to make international calls. Roaming calls: check that you have a call balance (Pass) which allows you to make / receive calls in Roaming. SMS in Roaming, SMS to international, SMS / Calls to short numbers: check that you have respectively a Roaming, international or value-added services balance that allows you to perform these operations. And if you still cannot resolve the problem, please do not hesitate to contact our advisers for assistance.  
+
+https://win.ma/en/faq/i-have-trouble-hearing-my-interlocutor-573
+Question: I have trouble hearing my interlocutor
+Answer:   Can't hear the other party's voice clearly, or just hear unwanted noises when you call? In this case, carry out the following checks:
+ 
+ Network coverage
+ To check if you are in a covered area, you can consult the national 2G / 3G / 4G coverage map and enter the address where you are located.
+ 
+ Smartphone settings
+ If you are in a covered area and the problem persists, you can check the settings of your smartphone: When you make a call, check that the volume level of your phone is at its maximum. To avoid noise and crackling, make sure that your phone's receiver is cleaned and is not clogged with dust or debris. If your phone is protected by a case or a shell, check that the receiver of your phone is not obstructed by this accessory. If the quality of your calls is still as bad as this, do not hesitate to contact our advisers for assistance.  
+
+https://win.ma/en/faq/my-internet-connection-speed-slow-575
+Question: My Internet connection speed is slow
+Answer:   By performing the checks below, you will be able to determine why the speed of your connection is low:
+ 
+ Network coverage 
+ To check if you are in a covered area, we invite you to consult the national 2G / 3G / 4G coverage map and to fill in the address where you are located.
+ 
+ Smartphone settings
+ If you are in a covered area and the problem persists, make sure you are in 4G. If you are not, you can change the Internet settings of your smartphone:
+ 
+ For iPhone 
+ Select "Settings", then "Cellular data" On "Options", select "Activate 4G" and finally choose "Voice and data"
+ 
+ For Android 
+ Select "Settings" then "Connections" then "Mobile networks" In "Network Mode", change your cellular data settings to "4G / 3G / 2G" And if you still cannot resolve the problem, please do not hesitate to contact our advisers for assistance.  
+
+https://win.ma/en/faq/i-cant-configure-4g-649
+Question: I can't configure 4G
+Answer:   Generally, if the win SIM card is inserted in a 4G compatible smartphone, 4G is activated automatically.  
+ 
+ Then make sure that the area where you are is well covered in 4G.
+ 
+ If 4G does not activate automatically the first time you use your SIM win in a phone, an SMS to configure network parameters (APN) is sent to you.
+ 
+ You will then have to enter the code "0000" for the configuration to be taken into account with the new APN: www.inwi.ma
+ 
+ Once the APN has been set up, the smartphone should display 4G or LTE at the top of the screen next to the network signal bars: this means that the smartphone is receiving a 4G Internet network.
+ 
+ If you have not received the connection parameters, you can send 3 to 333 (Free SMS), you will receive an SMS with the configuration parameters of your smartphone. And if you still cannot configure 4G on your phone, proceed to the manual configuration of your smartphone:
+ 
+ Manual configuration of 4G on iOS - Versions 12 
+ At the level of "Settings": Select "Cellular data" then "Options" then choose "Cellular data network".
+ 
+ If "Cellular Data Network" is not displayed, manual configuration is not possible.
+ In this case, connect the device to the computer and use iTunes to install "Operator Settings". Fill in the following fields: On cellular data Access point name: www.inwi.ma
+ 
+ On MMS Access point name: www.inwi.ma Manual configuration of 4G on iOS - Old versions: At the level of "Settings":
+ 
+ Select "Cellular network" then "Cellular data network". If "Cellular Data Network" is not available, manual configuration is not possible. In this case, connect the device to the computer and use iTunes to install the "Operator Settings"
+ 
+ Fill in the following fields:
+ On cellular data
+ Access point name: www.inwi.ma
+ On MMS
+ Access point name: www.inwi.ma Manual configuration of 4G on iOS - Older versions : At the "Settings" level: Select "Cellular Network" then "Cellular Data Network". If "Cellular Data Network" is not available, manual configuration is not possible. In this case, connect the device to the PC and use iTunes to install the "Operator Settings".
+ Fill in the following fields:
+ On cellular data
+ Access point name: www.inwi.ma
+ On MMS Access point name: www.inwi.ma Manual configuration of 4G on Android - Latest version : 
+ At the "Settings" level Choose "Connections"
+ Then "Mobile Networks"
+ Then select "Name of access points".
+ Choose "Add"
+ And fill in the APN field by: www.inwi.ma Manual configuration of 4G on Android - Older versions : 
+ At the "Settings" level Depending on the brand of your smartphone, select "Wireless and networks" or "More networks", then "Mobile networks".
+ Then choose "Name of access points".
+ Select "New APN" from the Options menu or "Symbol +".
+ Fill in the AFN field by: www.inwi.ma
+ Select "Save" from the Options menu  
+

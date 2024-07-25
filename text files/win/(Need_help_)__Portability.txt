@@ -1,0 +1,23 @@
+Category: Need help ?
+Subcategory:  Portability
+
+https://win.ma/en/faq/i-cannot-cancel-my-portability-559
+Question: I cannot cancel my portability
+Answer:   To cancel your portability request, you will find "a cancel button" in the order tracking on your dashboard.
+ 
+ Important: you can cancel your portability request within 24 hours of signing the portability mandate. Beyond 24 hours, you will no longer be able to cancel your request.    
+
+https://win.ma/en/faq/my-portability-still-not-effective-627
+Question: My portability is still not effective
+Answer:   The portability period of your number to win is 1 working day.
+ 
+ You can follow the progress of your request on your dashboard. You will also receive email and push app notifications to track the evolution of your portability  
+
+https://win.ma/en/faq/my-portability-has-been-refused-629
+Question: My portability has been refused
+Answer:   In the event of definitive refusal of your portability, you can always join us by subscribing with a win number  
+
+https://win.ma/en/faq/i-cant-initiate-my-numbers-portability-631
+Question: I can’t initiate my number’s portability
+Answer:   To trigger your portability request, you must confirm possession of your SIM and sign your portability mandate. If your problem persists, please contact a win advisor  
+

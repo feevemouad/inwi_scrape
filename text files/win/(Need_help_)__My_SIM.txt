@@ -1,0 +1,11 @@
+Category: Need help ?
+Subcategory:  My SIM
+
+https://win.ma/en/faq/i-lost-my-sim-623
+Question: I lost my SIM
+Answer:   If you have lost your SIM card and want to order a new one, you can do so from your win account via the "Manage my SIM" section and then by clicking on "Order a new SIM". Just follow the steps and we will send it to the delivery address of your choice as soon as possible.  
+
+https://win.ma/en/faq/im-looking-my-puk-code-625
+Question: I'm looking for my PUK code
+Answer:   You can retrieve your PUK code from the Chatbot in I manage my line, My codes, then My PUK code.  
+

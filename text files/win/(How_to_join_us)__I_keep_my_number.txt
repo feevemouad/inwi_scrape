@@ -1,0 +1,75 @@
+Category: How to join us?
+Subcategory:  I keep my number
+
+https://win.ma/en/faq/can-i-keep-my-number-and-join-win-577
+Question: Can I keep my number and join win?
+Answer:   You can keep your current number and subscribe to a win plan.
+ 
+ If you are an inwi customer: Just enter and validate the number you want to keep when you first subscribe. The transfer of your inwi number to win will be done automatically after activating your SIM and signing the transfer mandate. If you are a customer of another operator: Before starting the portability procedure, make sure that your line is still active and that it is not terminated. The portability request to win is made during your first subscription. You can follow the progress of your request on your dashboard. You will also receive email and push app notifications to track your portability. The transfer time from your number to win is 1 working day .   More information in video by clicking here [LINK: https://www.youtube.com/watch?v=-RD5Xwjp7-8]  
+
+https://win.ma/en/faq/why-was-my-portability-request-denied-595
+Question: Why was my portability request denied?
+Answer:   During the portability process, there are times when the request is denied. Your line is canceled at your operator:
+ 
+ When you want to make a portability request, make sure your line is still active.
+ The termination of your line is done automatically at the source operator after validation of your portability. If your portability has been refused due to the reason "Line terminated" while your line is still active, please contact our advisers to help you.
+ 
+ The data you entered when you requested portability do not match your data with the source operator:
+ 
+ In order to avoid any possible portability delay, make sure when subscribing that the information you provide is correct and complies with the data on the source operator's contract.
+  
+
+https://win.ma/en/faq/what-portability-597
+Question: What is portability?
+Answer:   Portability is a free service that allows you to switch to a win plan while keeping your current phone number. No need to go an agency, you can port your number in few clicks: transfer of your number, activation your line and termination with your old operator. Do not cancel your line by yourself, you may lose your number.  
+
+https://win.ma/en/faq/i-am-orange-or-maroc-telecom-customer-and-i-want-subscribe-win-plan-without-changing-number-it-601
+Question: I am an Orange or Maroc Telecom customer and I want to subscribe to a win plan without changing the number, is it possible?
+Answer:   Before starting the portability procedure, make sure that your line is still active and that it is not terminated. The portability request to win is made during your first subscription.
+ 
+ The duration of transfer from your number to win is 1 working day from the date of signing your portability mandate.    
+
+https://win.ma/en/faq/i-am-inwi-client-and-i-want-subscribe-win-how-does-it-work-603
+Question: I am an inwi client and I want to subscribe to win, how does it work?
+Answer:   You can keep your inwi number and subscribe to win. Just enter and validate the number you want to keep when you first subscribe.
+ 
+ The transfer of your inwi number to win will be done automatically after activating your SIM and signing the transfer mandate.
+ 
+ Your phone number will be transferred to win in a few minutes.
+  
+
+https://win.ma/en/faq/i-requested-transfer-my-current-number-win-605
+Question: I requested the transfer of my current number to win
+Answer:   Once your SIM has been received, you must sign your portability mandate from your dashboard in order to trigger your request. If you are an inwi customer, it will take a few minutes to activate your offer. If you are a customer of another operator, your offer will be activated automatically after 1 working day .  
+
+https://win.ma/en/faq/it-possible-cancel-my-portability-request-607
+Question: Is it possible to cancel my portability request?
+Answer:   To cancel your portability request, you will find a "cancel" button in the order tracking on your dashboard.
+ 
+ You can cancel your portability request the same day of signing the portability mandate before midnight, beyond midnight, cancellation will no longer be possible.  
+
+https://win.ma/en/faq/what-portability-mandate-685
+Question: What is a portability mandate?
+Answer:   A portability mandate is a contract which, once signed by you, authorizes win to take care of all the stages relating to your portability request: transfer of your number, commissioning of your line and termination with your current operator. 
+ Please note: portability is not possible on a terminated, terminating or suspended line. It is important that you do not cancel your line on your own, you risk losing your number.     
+
+https://win.ma/en/faq/what-are-steps-portability-689
+Question: What are the steps of portability?
+Answer:   The portability request is made in 2 steps: 1. When you subscribe, you must select "I keep my current number" and follow the steps indicated 
+ To find out more: "How to join win without changing your number? [LINK: https://win.ma/en/faq/can-i-keep-my-number-and-join-win-577]"       
+
+https://win.ma/en/faq/what-are-deadlines-portability-691
+Question: What are the deadlines for portability?
+Answer:   Portability deadlines at win differ depending on your current telecom operator.
+   If you are an inwi customer: After signing your portability mandate [LINK: https://win.ma/en/faq/what-portability-mandate-685], your phone number will be transferred to win in a few minutes.
+   If you are a customer of another telecom operator: The transfer time from your number to win is 1 working day from the signing of your portability mandate.  
+
+https://win.ma/en/faq/how-do-i-know-if-my-portability-effective-693
+Question: How do I know if my portability is effective?
+Answer:   Once you have signed your portability mandate, win will take care of all the steps of your portability request. You will be notified instantly for any change in your request: 
+ - When your portability request is accepted or refused -To inform you about a possible temporary interruption of service after the transfer of your number - To confirm the transfer of your number and the activation of your win package.     
+
+https://win.ma/en/faq/how-does-rio-code-work-735
+Question: How does the RIO code work ?
+Answer:   What is the RIO code ? The RIO code (Operator Identity Statement) is a unique identifier for each telephone number made up of 12 characters that any customer can request free of charge from his operator. It allows number portability requests between operators.  
+
